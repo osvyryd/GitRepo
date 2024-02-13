@@ -4,6 +4,6 @@ public class Mest {
 	public static void main(String[] args) {
 		System.out.println("Some changes made by olga. Dev.");
 		System.out.println("And from local");
-		System.out.println("And once more.And more+test1");
+		System.out.println("And once more.And more");
 	}
 }
